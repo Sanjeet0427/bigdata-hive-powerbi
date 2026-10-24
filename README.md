@@ -90,4 +90,4 @@ Add dashboard screenshots in a `screenshots/` folder and link them here:
 
 ## Author
 
-Surabhi Mishra, B.Tech Computer Science, Shri Ramswaroop Memorial University
+Sanjeet Singh, B.Tech Computer Science, Shri Ramswaroop Memorial University
