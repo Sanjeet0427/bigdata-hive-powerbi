@@ -66,14 +66,6 @@ Analysis of 200,000 e-commerce orders (India, 2025) using Apache Hive for queryi
 - **Geography and Payments:** revenue by city, orders by payment mode
 - **Products and Discounts:** top 10 products, average rating by discount level
 
-Add dashboard screenshots in a `screenshots/` folder and link them here:
-
-```
-![Overview](screenshots/page1.png)
-![Geography and Payments](screenshots/page2.png)
-![Products and Discounts](screenshots/page3.png)
-```
-
 ## Key Findings
 
 - Total revenue is about 1.89 billion across 200,000 orders, with an average rating of 3.95.
